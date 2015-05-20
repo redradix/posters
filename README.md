@@ -18,3 +18,12 @@
 [![ruby](thumb/ruby.jpg)](png/ruby.png)
 [![saas](thumb/sass.jpg)](png/sass.png)
 [![electron](thumb/electron.jpg)](png/electron.png)
+
+
+### Thanks to the contributors:
+
+- [chemaRedradix](https://github.com/chemaRedradix)
+- [arturomtm](https://github.com/arturomtm)
+- [fuzzyalej](https://github.com/fuzzyalej)
+- [tcyrus](https://github.com/tcyrus)
+- [cesar2535](https://github.com/cesar2535)
