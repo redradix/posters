@@ -17,3 +17,4 @@
 [![react](thumb/react.jpg)](png/react.png)
 [![ruby](thumb/ruby.jpg)](png/ruby.png)
 [![saas](thumb/sass.jpg)](png/sass.png)
+[![electron](thumb/electron.jpg)](png/electron.png)
