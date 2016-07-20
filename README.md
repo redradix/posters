@@ -18,6 +18,7 @@
 [![ruby](thumb/ruby.jpg)](png/ruby.png)
 [![saas](thumb/sass.jpg)](png/sass.png)
 [![electron](thumb/electron.jpg)](png/electron.png)
+[![php](thumb/php.jpg)](png/php.png)
 
 
 ### Thanks to the contributors:
@@ -27,3 +28,4 @@
 - [fuzzyalej](https://github.com/fuzzyalej)
 - [tcyrus](https://github.com/tcyrus)
 - [cesar2535](https://github.com/cesar2535)
+- [asifsaho](https://github.com/asifsaho)
