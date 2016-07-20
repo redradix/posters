@@ -29,4 +29,5 @@
 - [fuzzyalej](https://github.com/fuzzyalej)
 - [tcyrus](https://github.com/tcyrus)
 - [cesar2535](https://github.com/cesar2535)
+- [blazedd](https://github.com/blazedd)
 - [asifsaho](https://github.com/asifsaho)
