@@ -7,6 +7,7 @@
 [![html5](thumb/html5.jpg)](png/html5.png)
 [![io](thumb/io.jpg)](png/io.png)
 [![javascript](thumb/javascript.jpg)](png/javascript.png)
+[![javascript](thumb/javascript-alt.jpg)](png/javascript-alt.png)
 [![less](thumb/less.jpg)](png/less.png)
 [![lisp](thumb/lisp.jpg)](png/lisp.png)
 [![marionette](thumb/marionette.jpg)](png/marionette.png)
