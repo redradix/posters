@@ -24,7 +24,7 @@
 
 ### Thanks to the contributors:
 
-- [chemaRedradix](https://github.com/chemaRedradix)
+- [ChemaMontero](https://github.com/ChemaMontero)
 - [arturomtm](https://github.com/arturomtm)
 - [fuzzyalej](https://github.com/fuzzyalej)
 - [tcyrus](https://github.com/tcyrus)
